@@ -21,6 +21,10 @@ On Ubuntu (**only works for Xenial**):
 - sudo add-apt-repository -u ppa:tribaal/oldfashioned
 - sudo apt install oldfashioned
 
+OR
+
+- sudo setup-old-fashioned
+
 Note: Since this script relies on launchpad buildd to be available, it will
 unfortunately not work until that package is made available for other series.
 
@@ -68,3 +72,6 @@ Please make sure your hook files are **executable**.
 ```
 slangasek> "what kind of glass do you serve an ubuntu old fashioned in? a chrisglass"
 ```
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE0NzI1MjQ5MDBdfQ==
+-->
